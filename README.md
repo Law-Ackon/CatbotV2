@@ -29,7 +29,7 @@ Lecturers name
 - Write naturally as if talking to a person, not reading code or data`,
 Output  sample: 
 Here is the cover page format for the Bachelor of Science in Information Technology program:
-
+- OUTPUT SAMPLE 
 University of Cape Coast
 College of Agriculture and Natural Sciences
 School of Physical Sciences
