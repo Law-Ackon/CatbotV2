@@ -1,7 +1,7 @@
 ------DATA--------
-College of humanities and legal Studies
-College of Agriculture and Natural Sciences
-College of Education Studies
+-College of humanities and legal Studies
+-College of Agriculture and Natural Sciences
+-College of Education Studies
 
 Instructions
 Guidelines:
